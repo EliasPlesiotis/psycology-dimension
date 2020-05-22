@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9eb26b6.chunk.css",
+    "main.js": "/static/js/main.f13b953b.chunk.js",
+    "main.js.map": "/static/js/main.f13b953b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dbac8e30.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dbac8e30.js.map",
+    "static/js/2.a972fd06.chunk.js": "/static/js/2.a972fd06.chunk.js",
+    "static/js/2.a972fd06.chunk.js.map": "/static/js/2.a972fd06.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9c6334df9d34704fdf32e2f7384a045d.js": "/precache-manifest.9c6334df9d34704fdf32e2f7384a045d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d9eb26b6.chunk.css.map": "/static/css/main.d9eb26b6.chunk.css.map",
+    "static/js/2.a972fd06.chunk.js.LICENSE.txt": "/static/js/2.a972fd06.chunk.js.LICENSE.txt",
+    "static/media/unauthhome.css": "/static/media/no-description-1301831 1.17b0e345.jpg",
+    "static/media/questionnaire.css": "/static/media/what_do_you_see__by_theghostvirus-d3j7ig3.75c70289.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbac8e30.js",
+    "static/js/2.a972fd06.chunk.js",
+    "static/css/main.d9eb26b6.chunk.css",
+    "static/js/main.f13b953b.chunk.js"
+  ]
+}
